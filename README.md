@@ -1,2 +1,2 @@
-# CookieCliker
+# CookieClicker
 Unity Game
